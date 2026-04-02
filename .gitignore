@@ -1,0 +1,11 @@
+# Docker
+docker/mysql/data/
+
+# Laravel
+src/vendor/
+src/node_modules/
+src/.env
+
+# その他
+*.log
+.DS_Store
